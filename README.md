@@ -13,7 +13,7 @@ HTML labs for IT-2310 Web Programming.
 </head>
 <body>
 
-    <h1>Fuck this nigga josh he a bitch ass nigga who don't know how to upload a video</h1>
+    <h1>Philip Morrow</h1>
 
     <p>My name is Philip, but I go by Phil. I am from Cleveland, Ohio, and I am currently a full-time student at Tri-C working toward my degree in Computer Science (partly so I can help AI take over the world faster). I am a big sports fan I support teams like the cavs and browns even though they struggle from time to time. My favorite basketball player to ever play is kyrie irving. My favorite browns player to ever play is Nick Chubb or Denzal Ward. </p>
 
